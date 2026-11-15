@@ -1,0 +1,11 @@
+# Réglages personnels : ne jamais publier
+notification.json
+mail.secret
+journal-mail.txt
+.claude/
+
+# Fichiers régénérés à chaque mise à jour (seules les archives sont conservées dans le dépôt)
+site/index.html
+site/archives.html
+site/series/
+site/apercu-mail.html
