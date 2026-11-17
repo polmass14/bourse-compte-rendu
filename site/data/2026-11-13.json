@@ -452,23 +452,23 @@
       "symbole": "TSLA",
       "nom": "Tesla",
       "secteur": "Automobile électrique",
-      "cours": 390.2200012207031,
-      "variation": -1.8191,
-      "ouverture": 401.67999267578125,
-      "haut": 404.3999938964844,
-      "bas": 385.8299865722656,
-      "volume": 32268400.0
+      "cours": 379.739990234375,
+      "variation": -2.6857,
+      "ouverture": 387.1050109863281,
+      "haut": 389.7983093261719,
+      "bas": 375.6300048828125,
+      "volume": 30080721.0
     },
     {
       "symbole": "ONON",
       "nom": "On Holding",
       "secteur": "Équipement sportif",
-      "cours": 33.630001068115234,
-      "variation": 1.6934,
-      "ouverture": 33.5,
-      "haut": 34.28499984741211,
-      "bas": 33.15399932861328,
-      "volume": 6067400.0
+      "cours": 32.7599983215332,
+      "variation": -2.587,
+      "ouverture": 33.55500030517578,
+      "haut": 33.63999938964844,
+      "bas": 32.369998931884766,
+      "volume": 6533264.0
     },
     {
       "symbole": "WPEA.PA",
@@ -487,78 +487,78 @@
       "symbole": "BTC-EUR",
       "nom": "Bitcoin",
       "secteur": "Cryptomonnaie",
-      "cours": 58644.53,
-      "variation": -1.9617,
-      "ouverture": 59817.9609375,
-      "haut": 60110.0703125,
-      "bas": 56407.53125,
-      "volume": 23751274496.0
+      "cours": 58759.5,
+      "variation": -0.2466,
+      "ouverture": 58904.78125,
+      "haut": 59577.0,
+      "bas": 57972.30859375,
+      "volume": 5189220352.0
     },
     {
       "symbole": "ETH-EUR",
       "nom": "Ethereum",
       "secteur": "Cryptomonnaie",
-      "cours": 1646.4,
-      "variation": -1.6223,
-      "ouverture": 1673.550048828125,
-      "haut": 1677.4000244140625,
-      "bas": 1556.1300048828125,
-      "volume": 11493957632.0
+      "cours": 1649.91,
+      "variation": 0.2296,
+      "ouverture": 1646.1300048828125,
+      "haut": 1692.93994140625,
+      "bas": 1621.510009765625,
+      "volume": 2114834432.0
     },
     {
       "symbole": "SOL-EUR",
       "nom": "Solana",
       "secteur": "Cryptomonnaie",
-      "cours": 64.89,
-      "variation": -1.9492,
-      "ouverture": 66.18000030517578,
-      "haut": 66.68000030517578,
-      "bas": 61.290000915527344,
-      "volume": 1844875776.0
+      "cours": 65.02,
+      "variation": -0.3219,
+      "ouverture": 65.2300033569336,
+      "haut": 66.18000030517578,
+      "bas": 63.5,
+      "volume": 198718720.0
     },
     {
       "symbole": "XRP-EUR",
       "nom": "XRP",
       "secteur": "Cryptomonnaie",
-      "cours": 0.8635,
-      "variation": -0.9521,
-      "ouverture": 0.8718000054359436,
-      "haut": 0.8909000158309937,
-      "bas": 0.8112999796867371,
-      "volume": 2003089408.0
+      "cours": 0.8658,
+      "variation": -0.9609,
+      "ouverture": 0.8741999864578247,
+      "haut": 0.8867999911308289,
+      "bas": 0.8539999723434448,
+      "volume": 242878208.0
     },
     {
       "symbole": "BNB-EUR",
       "nom": "BNB",
       "secteur": "Cryptomonnaie",
-      "cours": 535.2569,
-      "variation": 0.0006,
-      "ouverture": 535.2537231445312,
-      "haut": 543.1463012695312,
-      "bas": 514.4349975585938,
-      "volume": 1019762176.0
+      "cours": 536.1102,
+      "variation": -0.4909,
+      "ouverture": 538.7548217773438,
+      "haut": 541.6006469726562,
+      "bas": 530.7262573242188,
+      "volume": 109086208.0
     },
     {
       "symbole": "DOGE-EUR",
       "nom": "Dogecoin",
       "secteur": "Cryptomonnaie",
-      "cours": 0.05333,
-      "variation": -2.6114,
-      "ouverture": 0.054760001599788666,
-      "haut": 0.05494999885559082,
-      "bas": 0.050280001014471054,
-      "volume": 593833920.0
+      "cours": 0.05335,
+      "variation": -0.6518,
+      "ouverture": 0.053700000047683716,
+      "haut": 0.05443999916315079,
+      "bas": 0.05266999825835228,
+      "volume": 52647456.0
     },
     {
       "symbole": "ADA-EUR",
       "nom": "Cardano",
       "secteur": "Cryptomonnaie",
-      "cours": 0.13883,
-      "variation": -1.8106,
-      "ouverture": 0.14138999581336975,
-      "haut": 0.14345000684261322,
-      "bas": 0.1289999932050705,
-      "volume": 259417952.0
+      "cours": 0.13805,
+      "variation": -0.7263,
+      "ouverture": 0.13906000554561615,
+      "haut": 0.14108000695705414,
+      "bas": 0.13642999529838562,
+      "volume": 30976128.0
     }
   ]
 }
