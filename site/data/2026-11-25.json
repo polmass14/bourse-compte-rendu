@@ -2,8 +2,8 @@
   "date": "2026-11-25",
   "indice": {
     "nom": "CAC 40",
-    "cloture": 7980.56982421875,
-    "variation": -0.7452
+    "cloture": 8108.740234375,
+    "variation": 1.606
   },
   "actions": [
     {
@@ -487,78 +487,78 @@
       "symbole": "BTC-EUR",
       "nom": "Bitcoin",
       "secteur": "Cryptomonnaie",
-      "cours": 55364.01,
-      "variation": -0.1254,
-      "ouverture": 55433.53125,
-      "haut": 55686.91015625,
+      "cours": 56010.41,
+      "variation": 1.1364,
+      "ouverture": 55381.05078125,
+      "haut": 56262.76953125,
       "bas": 54524.98828125,
-      "volume": 1263468544.0
+      "volume": 5907001344.0
     },
     {
       "symbole": "ETH-EUR",
       "nom": "Ethereum",
       "secteur": "Cryptomonnaie",
-      "cours": 1552.28,
-      "variation": 0.1161,
-      "ouverture": 1550.47998046875,
-      "haut": 1557.5899658203125,
+      "cours": 1573.82,
+      "variation": 1.7146,
+      "ouverture": 1547.2900390625,
+      "haut": 1582.5400390625,
       "bas": 1518.800048828125,
-      "volume": 727444480.0
+      "volume": 2525473792.0
     },
     {
       "symbole": "SOL-EUR",
       "nom": "Solana",
       "secteur": "Cryptomonnaie",
-      "cours": 64.94,
-      "variation": 0.247,
-      "ouverture": 64.77999877929688,
-      "haut": 65.41000366210938,
+      "cours": 66.31,
+      "variation": 2.4409,
+      "ouverture": 64.7300033569336,
+      "haut": 66.58999633789062,
       "bas": 63.5,
-      "volume": 6945920.0
+      "volume": 183340160.0
     },
     {
       "symbole": "XRP-EUR",
       "nom": "XRP",
       "secteur": "Cryptomonnaie",
-      "cours": 0.8642,
-      "variation": -0.3804,
-      "ouverture": 0.8675000071525574,
-      "haut": 0.8780999779701233,
+      "cours": 0.8765,
+      "variation": 0.4009,
+      "ouverture": 0.8730000257492065,
+      "haut": 0.8790000081062317,
       "bas": 0.8500000238418579,
-      "volume": 108890496.0
+      "volume": 125076480.0
     },
     {
       "symbole": "BNB-EUR",
       "nom": "BNB",
       "secteur": "Cryptomonnaie",
-      "cours": 506.3228,
-      "variation": 0.2494,
-      "ouverture": 505.0631103515625,
-      "haut": 511.18603515625,
+      "cours": 512.5475,
+      "variation": 0.6021,
+      "ouverture": 509.4798278808594,
+      "haut": 513.0093383789062,
       "bas": 496.9201965332031,
-      "volume": 325998208.0
+      "volume": 368656896.0
     },
     {
       "symbole": "DOGE-EUR",
       "nom": "Dogecoin",
       "secteur": "Cryptomonnaie",
-      "cours": 0.05154,
-      "variation": -0.3288,
-      "ouverture": 0.05170999839901924,
-      "haut": 0.05209000036120415,
+      "cours": 0.05264,
+      "variation": 1.3477,
+      "ouverture": 0.05194000154733658,
+      "haut": 0.05264,
       "bas": 0.05087000131607056,
-      "volume": 6456832.0
+      "volume": 30506880.0
     },
     {
       "symbole": "ADA-EUR",
       "nom": "Cardano",
       "secteur": "Cryptomonnaie",
-      "cours": 0.13636,
-      "variation": 1.285,
-      "ouverture": 0.1346299946308136,
-      "haut": 0.13771000504493713,
+      "cours": 0.13782,
+      "variation": 1.4651,
+      "ouverture": 0.13583000004291534,
+      "haut": 0.13843999803066254,
       "bas": 0.1328900009393692,
-      "volume": 26991376.0
+      "volume": 33810512.0
     }
   ]
 }
